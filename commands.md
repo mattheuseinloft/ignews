@@ -7,3 +7,6 @@
 
 ## Estilização com SASS
 4. yarn add sass
+
+## Componente: SignInButton
+5. yarn add react-icons
