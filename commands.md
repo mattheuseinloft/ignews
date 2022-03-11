@@ -3,4 +3,7 @@
 
 ## Adicionando TypeScript
 2. yarn add typescript @types/react @types/node -D
- 3. yarn dev <!-- Next vai criar o arquivo tsconfig.json -->
+3. yarn dev <!-- Next vai criar o arquivo tsconfig.json -->
+
+## Estilização com SASS
+4. yarn add sass
