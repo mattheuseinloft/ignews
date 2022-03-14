@@ -13,3 +13,6 @@
 
 ## Consumindo API do Stripe (SSR)
 6. yarn add stripe
+
+## Autenticação com Next Auth
+7. yarn add next-auth
