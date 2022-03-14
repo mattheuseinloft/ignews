@@ -10,3 +10,6 @@
 
 ## Componente: SignInButton
 5. yarn add react-icons
+
+## Consumindo API do Stripe (SSR)
+6. yarn add stripe
