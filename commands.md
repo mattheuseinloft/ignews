@@ -16,3 +16,6 @@
 
 ## Autenticação com Next Auth
 7. yarn add next-auth
+
+## Configurando FaunaDB
+8. yarn add faunadb
