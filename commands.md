@@ -27,3 +27,6 @@
 ## Webhooks do Stripe
 11. stripe login
 12. stripe listen --forward-to localhost:3000/api/webhooks
+
+## Consumindo API do Prismic
+13. yarn add @prismicio/client
