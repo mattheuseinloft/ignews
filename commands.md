@@ -23,3 +23,7 @@
 ## Redirecionando para o Stripe
 9. yarn add axios
 10. yarn add @stripe/stripe-js
+
+## Webhooks do Stripe
+11. stripe login
+12. stripe listen --forward-to localhost:3000/api/webhooks
